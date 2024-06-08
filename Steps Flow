@@ -1,0 +1,19 @@
+Streamlit UI [file uploader with preview, chat window]
+S3
+KB linked with S3
+
+user authenticate
+Chat history
+Session ID & Management
+Prompt compress
+Sync KB when new file is uploaded from UI
+guardrails
+Stream response & show reference source docs
+
+Test all above
+
+Then, add cloudwatch dash
+
+Then, move to agents
+
+Then, Eval RAG
