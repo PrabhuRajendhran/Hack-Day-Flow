@@ -5,6 +5,7 @@ KB linked with S3
 user authenticate
 Save Chat history & Manage[Trim or Summarize]
 Session ID & Management
+Customize Prompt Input
 Prompt compress
 Sync KB when new file is uploaded from UI
 guardrails
